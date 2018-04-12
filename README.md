@@ -3,7 +3,7 @@
 From April 25–April 29, we will provide fast turnaround spectroscopic follow-up of *Gaia* sources using the [MDM](http://mdm.kpno.noao.edu/) 2.4 meter (April 25–26) and 1.3 meter (April 25–29) telescopes. We will have low-resolution spectrographs mounted on each telescope with wavelength coverage from ~4000–7500Å.
 
 **Organizers**:
-- Kathryn Johnston
+- Kathryn V. Johnston
 - Jules Halpern
 - David W. Hogg
 - Adrian Price-Whelan
@@ -43,8 +43,8 @@ This is a combination of the standard MDM acknowledgement, and an additional sta
     This work is based on observations obtained at the MDM Observatory, operated
     by Dartmouth College, Columbia University, Ohio State University, Ohio
     University, and the University of Michigan.
-    Observations were coordinated by Kathryn Johnston, Jules Halpern, David W.
-    Hogg, Adrian Price-Whelan, and David Schiminovich.
+    Observations were coordinated by Kathryn V. Johnston, Jules Halpern, David
+    W. Hogg, Adrian Price-Whelan, and David Schiminovich.
 
 # Requesting observations
 
