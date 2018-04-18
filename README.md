@@ -44,8 +44,8 @@ This is a combination of the standard MDM acknowledgement, and an additional sta
     This work is based on observations obtained at the MDM Observatory, operated
     by Dartmouth College, Columbia University, Ohio State University, Ohio
     University, and the University of Michigan.
-    Observations were coordinated by Kathryn V. Johnston, Jules Halpern, David
-    W. Hogg, Adrian Price-Whelan, and David Schiminovich.
+    Observations were coordinated by David Schiminovich, Adrian Price-Whelan,
+    Jules Halpern, David W. Hogg, and Kathryn V. Johnston.
 
 # Requesting observations
 
