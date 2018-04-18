@@ -1,19 +1,22 @@
-# MDM-Gaia
+# MDM-Gaia (Rev. 0)
 
 From April 25–April 29, we will provide fast turnaround spectroscopic follow-up of *Gaia* sources using the [MDM](http://mdm.kpno.noao.edu/) 2.4 meter (April 25–26) and 1.3 meter (April 25–29) telescopes. We will have low-resolution spectrographs mounted on each telescope with wavelength coverage from ~4000–7500Å.
 
 **Organizers**:
-- Kathryn V. Johnston
 - Jules Halpern
-- David W. Hogg
 - Adrian Price-Whelan
 - David Schiminovich
+- David W. Hogg
+- Kathryn V. Johnston
 
 **Observers**:
+- David Schiminovich
 - Allyson Sheffield
+- Joshua Tan
 - TBD
 
-Please read the collaboration policy and statement of data rights below.
+Please read the collaboration policy and statement of data rights below, and
+check back for full affiliation information.
 
 
 # Collaboration policy and authorship
@@ -26,8 +29,6 @@ products. Second, all observers must be included as coauthors on scientific
 publications or research products. Third, you must agree to include a standard
 acknowledgement (see below) in all research products that use data obtained
 through this collaboration.
-
-TODO: all observers, or only the observer who took the relevant data?
 
 ## Data rights
 
@@ -48,7 +49,7 @@ This is a combination of the standard MDM acknowledgement, and an additional sta
 
 # Requesting observations
 
-TODO: Coordinates, exposure time estimate, calibration frames ...
+TBD: Information on how to submit target coordinates, finder charts, exposure time estimates, calibration frames.
 
 Note that this is bright time: full moon is on April 29!
 
