@@ -1,4 +1,4 @@
-# MDM-Gaia (Rev. 0)
+# MDM-Gaia (Revision 0)
 
 From April 25–April 29, we will provide fast turnaround spectroscopic follow-up of *Gaia* sources using the [MDM](http://mdm.kpno.noao.edu/) 2.4 meter (April 25–26) and 1.3 meter (April 25–29) telescopes. We will have low-resolution spectrographs mounted on each telescope with wavelength coverage from ~4000–7500Å.
 
