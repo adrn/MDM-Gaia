@@ -1,6 +1,8 @@
 This is the title
 =================
 
+Authors
+-------
 * These
 * are
 * the
