@@ -49,7 +49,14 @@ This is a combination of the standard MDM acknowledgement, and an additional sta
 
 # Requesting observations
 
-TBD: Information on how to submit target coordinates, finder charts, exposure time estimates, calibration frames.
+Observations should be requested through a pull request with a very short
+Markdown document explaining the target list.
+See the [template request
+file](https://github.com/adrn/MDM-Gaia/blob/master/requests/TEMPLATE.md) for an
+example.
+
+Targets should be submitted as a table readable by
+[astropy](http://docs.astropy.org/en/latest/) (i.e. FITS, ASCII, CSV, etc.).
 
 Note that this is bright time: full moon is on April 29!
 
