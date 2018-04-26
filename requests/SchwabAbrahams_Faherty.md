@@ -1,6 +1,10 @@
 Characterizing Nearby M Dwarfs in Kepler
 ======================
 
+Target filenames:
+* SchwabAbrahamsFaherty_highpriority.txt
+* SchwabAbrahamsFaherty_lowpriority.txt
+
 Authors
 -------
 * Ellianna Schwab Abrahams
